@@ -1,3 +1,10 @@
+@font-face{
+  font-family: 'Mario';
+  src: url('fonts/Mario.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 body{
   padding: 25px;
   align-items: center;
